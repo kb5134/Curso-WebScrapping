@@ -24,13 +24,12 @@
     <p>&emsp;Este ResultSet retornado pelo findAll, pode ser percorrido por um for para que então possamos acessar a informação que desejamos</p>  
     <p>&emsp;Todas as vezes que pegamos algum dado pelo BeautifulSoup, podemos acesssar os atributos da tag selecionara, desta forma podemos acessar os links de um href, acessar o caminho da imagem (src), dentre outros atributos.
     Para selecionarmos estes atributos da forma de um dicionario python passando entre chaves o atributo desejado, segue exemplo:</p>
-    </code>titulo['href]</code>
+    <code>titulo['href]</code>
     <p>&emsp;Este código trará o link do campo titulo que definimos anteriormente.</p>  
-    <br>
     <p>&emsp;para adicionarmos estes dados coletado em uma dataframe e depois em um arquiv csv, iremos utilziar o pandas </p> 
     <p>&emsp;O primeiro passo é realizar a isnerção destas noticias dentro de uma lista, para que possamos pegar todos estes campo no pandas, para isso dentro do for damos inserimos uma lista com os campos dentro de uma lista vazia criada anteriormente.</p> 
     <p>&emsp;Após criarmos a lista podemos chamar o pandas com a variavel DataFrame passando os dados,as colunas utilizando o parametro columns=['titulo', 'Demais colunas'].
-    <br>
+    <br/><br>
     Para salvarmos o dataframe em um arquivo csv podemos utilziar o método .to_csv() e dentro dele, temos que informar o nome do arquivo e a extensão, index=False (para não salvar o indice)
     </p> 
 </body>
