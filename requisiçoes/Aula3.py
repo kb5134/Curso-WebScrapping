@@ -10,5 +10,6 @@ post = site.find('div', attrs={'class': 'feed-post-body'}) #o find procura a pri
 titulo = post.find('a', attrs={'class': 'feed-post-link'})
 print(titulo.text)
 
+
 subtitulo = post.find('div', attrs={'class': 'feed-post-body-resumo'})
 print(subtitulo.text)
