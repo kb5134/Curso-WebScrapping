@@ -32,4 +32,14 @@
     <br/><br>
     Para salvarmos o dataframe em um arquivo csv podemos utilziar o método .to_csv() e dentro dele, temos que informar o nome do arquivo e a extensão, index=False (para não salvar o indice)
     </p> 
+    <br>
+<h1>Aula 5 - Buscando por produtos no ML</h1>
+    <p>&emsp; Podemos realizar buscar utilizando parametros informados pelos usuários, utilizando o padrão da URL
+    <br/><br/>
+    &emsp;Por conta disto, nosso primeiro passo será sempre analsiar como as buscas por são tratadas nestas na url que estamos utilizando
+    <br/><br/>
+    &emsp;Depois de descobrirmos como passar os dados na URL, definimos uma url de base e uma variavel recebendo os valores passados pelo cliente, após isto basta definir dentro do requests.get a url base e o produto
+    <br/><br/>
+    &emsp;Para acessarmos o preço temos mais trabalho, para isso, pesquisamos pela primeira tag que possui o real e a primeira com centavos.
+    </p> 
 </body>
