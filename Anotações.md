@@ -42,4 +42,14 @@
     <br/><br/>
     &emsp;Para acessarmos o preço temos mais trabalho, para isso, pesquisamos pela primeira tag que possui o real e a primeira com centavos.
     </p> 
+<h1>Aula 6 - Primeiros passos com Selenium</h1>
+    <p>
+        &emsp;Podemos utilziar o Selenium para controlar os navegadores no momento da busca, o Selenium é muito utilziado em testes
+        <br/></br>
+        &emsp;O fluxo do selenium (Web Driver) vai ser: Acessar a pagina, solicitar o conteudo, executar as ações e depois disto retornar
+            <br/></br>
+        &emsp;Podemos utilizar o Selenium para buscar um elemento pelo nome da tag, para assim podemos automatizar entrada de dados, para isso utlizamos o metodo find_element_by_tag_name.
+                    <br/></br>
+        &emsp;Para enviar parametros para o elemento que definimos anteriormente, usamos o método send_keys()
+    </p>
 </body>
