@@ -65,6 +65,11 @@
             &emsp; Para selecionarmos elementos com CSS de maneira mais facilitada, podemos utilizar a tag css_selector no find_element, passando qual o caminho pai e o filho separados por >, da seguinte forma:
                 <code>'button > img'</code>
             <br/><br/>
-            &emsp;Depois de tratarmos todo o caminho, podemos pegar o codigo HTML da pagina que chegamos, passando a nossa variavel de navegador.page_source() e após isto passamos este pageSource no bautidulsoup
+            &emsp;Depois de tratarmos todo o caminho, podemos pegar o codigo HTML da pagina que chegamos, passando a nossa variavel de navegador.<code>page_source()</code> e após isto passamos este pageSource no bautidulsoup
+        </p><br/><br/>
+    <h1>Aula 08 - Integrando Selenium com BeautifulSoup parte II</h1>
+        <p>
+            &emsp;Ao utilizar a filtragem por css selector, podemos fazer uma busca em ordem crescente exemplo: <code>'button > span > svg > path...</code><br/><br/>
+            &emsp;
         </p><br/><br/>
 </body>
