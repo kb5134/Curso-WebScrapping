@@ -29,12 +29,18 @@ input_place = navegador.find_element(By.TAG_NAME, 'input')
 input_place.send_keys('São Paulo')
 input_place.submit()
 
-sleep(1)
-next_button = navegador.find_elements(By.TAG_NAME, 'button')[-1]
+sleep(0.5)
+next_button = navegador.find_elements(By.TAG_NAME, 'button')[-4]
+next_button.click()
+sleep(0.5)
+search_button = navegador.find_elements(By.TAG_NAME, 'button')[-1]
+search_button.click()
 
-next_button._execute(navegador.execute_script("arguments[0].click();",next_button))
+sleep(4)
 
-'''site = BeautifulSoup(navegador.page_source, 'html.parser')
+page_content = navegador.page_source
+
+site = BeautifulSoup(page_content, 'html.parser')
 
 print(site.prettify())
-'''
+

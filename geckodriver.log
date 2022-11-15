@@ -2192,3 +2192,414 @@ JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been i
 JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
 JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
 JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1668502178551	Marionette	INFO	Stopped listening on port 38419
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668502180207	Marionette	INFO	Stopped listening on port 45501
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1668502200329	Marionette	INFO	Stopped listening on port 33171
+1668502200854	Marionette	INFO	Stopped listening on port 46253
+1668523812427	geckodriver	INFO	Listening on 127.0.0.1:34987
+1668523812865	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--width=400" "--height=800" "--remote-debugging-port" "40923" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileTjK9JY"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1668523814258	Marionette	INFO	Marionette enabled
+1668523814287	Marionette	INFO	Listening on port 36109
+Read port: 36109
+WebDriver BiDi listening on ws://127.0.0.1:40923
+1668523814689	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTjK9JY/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+DevTools listening on ws://127.0.0.1:40923/devtools/browser/8a2fc0b4-8619-4c3d-bbb2-70c79882caff
+JavaScript warning: https://a0.muscache.com/airbnb/static/packages/web/common/frontend/hyperloop-browser/core.73a9617a73.js, line 33: unreachable code after return statement
+1668523828791	Marionette	INFO	Stopped listening on port 36109
+1668523830727	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+[2022-11-15T14:50:30Z ERROR glean_core] Can't persist ping lifetime data: Error { kind: Rkv(IoError(Os { code: 2, kind: NotFound, message: "No such file or directory" })) }
+1668523857115	geckodriver	INFO	Listening on 127.0.0.1:54395
+1668523857167	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--width=400" "--height=800" "--remote-debugging-port" "60983" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileBYme9O"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1668523857916	Marionette	INFO	Marionette enabled
+1668523857922	Marionette	INFO	Listening on port 41889
+Read port: 41889
+WebDriver BiDi listening on ws://127.0.0.1:60983
+1668523858073	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBYme9O/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60983/devtools/browser/2a5ca56b-ba88-4e66-8549-5c6f140c52b5
+JavaScript warning: https://a0.muscache.com/airbnb/static/packages/web/common/frontend/hyperloop-browser/core.73a9617a73.js, line 33: unreachable code after return statement
+1668523870118	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1668524056875	Marionette	INFO	Stopped listening on port 41889
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668524058542	geckodriver	INFO	Listening on 127.0.0.1:35259
+1668524058581	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--width=400" "--height=800" "--remote-debugging-port" "32769" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileaIChSm"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1668524059429	Marionette	INFO	Marionette enabled
+1668524059438	Marionette	INFO	Listening on port 41233
+Read port: 41233
+WebDriver BiDi listening on ws://127.0.0.1:32769
+1668524059602	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileaIChSm/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:32769/devtools/browser/5920c87e-e6ed-4a10-8b14-d1cb87f19271
+JavaScript warning: https://a0.muscache.com/airbnb/static/packages/web/common/frontend/hyperloop-browser/core.73a9617a73.js, line 33: unreachable code after return statement
+1668524071665	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1668524202721	geckodriver	INFO	Listening on 127.0.0.1:46171
+1668524202783	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--width=400" "--height=800" "--remote-debugging-port" "34319" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile2fLHK6"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1668524203532	Marionette	INFO	Marionette enabled
+1668524203537	Marionette	INFO	Listening on port 45691
+Read port: 45691
+WebDriver BiDi listening on ws://127.0.0.1:34319
+1668524203681	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile2fLHK6/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:34319/devtools/browser/e29a8574-bf86-414c-9edf-434ecd4bdb58
+JavaScript warning: https://a0.muscache.com/airbnb/static/packages/web/common/frontend/hyperloop-browser/core.73a9617a73.js, line 33: unreachable code after return statement
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1668524213244	Marionette	INFO	Stopped listening on port 41233
+1668524215192	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1668524247813	geckodriver	INFO	Listening on 127.0.0.1:45937
+1668524247866	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--width=400" "--height=800" "--remote-debugging-port" "56365" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileRGkNGC"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1668524248573	Marionette	INFO	Marionette enabled
+1668524248580	Marionette	INFO	Listening on port 34591
+Read port: 34591
+WebDriver BiDi listening on ws://127.0.0.1:56365
+1668524249254	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRGkNGC/search.json.mozlz4", (void 0)))
+1668524251389	Marionette	INFO	Stopped listening on port 45691
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+DevTools listening on ws://127.0.0.1:56365/devtools/browser/b3445a2a-1d59-43a2-b23a-8716e27e3ea3
+JavaScript warning: https://a0.muscache.com/airbnb/static/packages/web/common/frontend/hyperloop-browser/core.73a9617a73.js, line 33: unreachable code after return statement
+1668524261766	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1668524288646	Marionette	INFO	Stopped listening on port 34591
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668524290027	geckodriver	INFO	Listening on 127.0.0.1:58589
+1668524290061	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--width=400" "--height=800" "--remote-debugging-port" "55971" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile49DlNp"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1668524290873	Marionette	INFO	Marionette enabled
+1668524290878	Marionette	INFO	Listening on port 42501
+Read port: 42501
+WebDriver BiDi listening on ws://127.0.0.1:55971
+1668524291667	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile49DlNp/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55971/devtools/browser/d622b97d-ea27-4488-be74-404fe7c515c9
+JavaScript warning: https://a0.muscache.com/airbnb/static/packages/web/common/frontend/hyperloop-browser/core.73a9617a73.js, line 33: unreachable code after return statement
+1668524303955	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1668524360974	geckodriver	INFO	Listening on 127.0.0.1:49469
+1668524361049	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--width=400" "--height=800" "--remote-debugging-port" "57945" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilenEPjWr"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1668524361903	Marionette	INFO	Marionette enabled
+1668524361909	Marionette	INFO	Listening on port 35815
+Read port: 35815
+WebDriver BiDi listening on ws://127.0.0.1:57945
+1668524362067	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenEPjWr/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57945/devtools/browser/441f1f0e-2bbc-4922-b4b9-533347432876
+JavaScript warning: https://a0.muscache.com/airbnb/static/packages/web/common/frontend/hyperloop-browser/core.73a9617a73.js, line 33: unreachable code after return statement
+1668524373625	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1668524396765	Marionette	INFO	Stopped listening on port 35815
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668524537347	geckodriver	INFO	Listening on 127.0.0.1:53143
+1668524537398	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--width=400" "--height=800" "--remote-debugging-port" "41209" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileIeu5Yr"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1668524538123	Marionette	INFO	Marionette enabled
+1668524538127	Marionette	INFO	Listening on port 43427
+Read port: 43427
+WebDriver BiDi listening on ws://127.0.0.1:41209
+1668524538758	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileIeu5Yr/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:41209/devtools/browser/53e352db-c9d2-4b50-b0ed-56d8bc7ae3c4
+JavaScript warning: https://a0.muscache.com/airbnb/static/packages/web/common/frontend/hyperloop-browser/core.73a9617a73.js, line 33: unreachable code after return statement
+1668524549524	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1668524566392	Marionette	INFO	Stopped listening on port 43427
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668524574626	geckodriver	INFO	Listening on 127.0.0.1:33895
+1668524574678	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--width=400" "--height=800" "--remote-debugging-port" "43735" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileGJMGQa"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1668524575522	Marionette	INFO	Marionette enabled
+1668524575530	Marionette	INFO	Listening on port 35197
+Read port: 35197
+WebDriver BiDi listening on ws://127.0.0.1:43735
+1668524575686	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGJMGQa/search.json.mozlz4", (void 0)))
+1668524577413	Marionette	INFO	Stopped listening on port 42501
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+DevTools listening on ws://127.0.0.1:43735/devtools/browser/7eb9929b-3319-4295-855d-1a4fe9478da9
+JavaScript warning: https://a0.muscache.com/airbnb/static/packages/web/common/frontend/hyperloop-browser/core.73a9617a73.js, line 33: unreachable code after return statement
+1668524588239	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://maps.googleapis.com/maps-api-v3/api/js/49/12/intl/pt_ALL/webgl.js, line 368: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: drawArraysInstanced: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1668524628204	geckodriver	INFO	Listening on 127.0.0.1:47339
+1668524628259	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--width=400" "--height=800" "--remote-debugging-port" "41163" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile13zo8Q"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1668524629107	Marionette	INFO	Marionette enabled
+1668524629115	Marionette	INFO	Listening on port 42295
+Read port: 42295
+WebDriver BiDi listening on ws://127.0.0.1:41163
+1668524629287	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile13zo8Q/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:41163/devtools/browser/4267b67c-93f3-4376-904e-ff8fdaf124c1
+JavaScript warning: https://a0.muscache.com/airbnb/static/packages/web/common/frontend/hyperloop-browser/core.73a9617a73.js, line 33: unreachable code after return statement
+1668524641717	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://maps.googleapis.com/maps-api-v3/api/js/49/12/intl/pt_ALL/webgl.js, line 368: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1668524851366	geckodriver	INFO	Listening on 127.0.0.1:47897
+1668524851926	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--width=400" "--height=800" "--remote-debugging-port" "43931" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileK6xTMC"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1668524852721	Marionette	INFO	Marionette enabled
+1668524852727	Marionette	INFO	Listening on port 38045
+Read port: 38045
+WebDriver BiDi listening on ws://127.0.0.1:43931
+1668524853285	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileK6xTMC/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:43931/devtools/browser/569923cc-37e8-4f44-91e4-a629ca8281b4
+JavaScript warning: https://a0.muscache.com/airbnb/static/packages/web/common/frontend/hyperloop-browser/core.73a9617a73.js, line 33: unreachable code after return statement
+1668524865923	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1668524899897	geckodriver	INFO	Listening on 127.0.0.1:57105
+1668524899951	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--width=400" "--height=800" "--remote-debugging-port" "34147" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileEJK31I"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1668524900677	Marionette	INFO	Marionette enabled
+1668524900683	Marionette	INFO	Listening on port 43813
+Read port: 43813
+WebDriver BiDi listening on ws://127.0.0.1:34147
+1668524900834	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEJK31I/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:34147/devtools/browser/0c97c9ea-5cc2-4ab8-94e0-119d58418221
+JavaScript warning: https://a0.muscache.com/airbnb/static/packages/web/common/frontend/hyperloop-browser/core.73a9617a73.js, line 33: unreachable code after return statement
+1668524914690	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1668524929915	geckodriver	INFO	Listening on 127.0.0.1:40471
+1668524930505	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--width=400" "--height=800" "--remote-debugging-port" "55691" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile0gxEuz"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1668524932082	Marionette	INFO	Marionette enabled
+1668524932089	Marionette	INFO	Listening on port 35265
+Read port: 35265
+WebDriver BiDi listening on ws://127.0.0.1:55691
+1668524932349	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0gxEuz/search.json.mozlz4", (void 0)))
+1668524934867	Marionette	INFO	Stopped listening on port 35197
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1668524935705	Marionette	INFO	Stopped listening on port 42295
+1668524936180	Marionette	INFO	Stopped listening on port 38045
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668524936837	Marionette	INFO	Stopped listening on port 43813
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+DevTools listening on ws://127.0.0.1:55691/devtools/browser/28f7ce53-37bc-4a58-9181-76a874cca5f4
+JavaScript warning: https://a0.muscache.com/airbnb/static/packages/web/common/frontend/hyperloop-browser/core.73a9617a73.js, line 33: unreachable code after return statement
+1668524948968	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1668525039620	geckodriver	INFO	Listening on 127.0.0.1:33669
+1668525039690	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--width=400" "--height=800" "--remote-debugging-port" "60315" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileOu7UW4"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1668525040408	Marionette	INFO	Marionette enabled
+1668525040413	Marionette	INFO	Listening on port 43951
+Read port: 43951
+WebDriver BiDi listening on ws://127.0.0.1:60315
+1668525041017	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOu7UW4/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60315/devtools/browser/158e7c89-2340-4c62-a0b3-acaf52986c25
+JavaScript warning: https://a0.muscache.com/airbnb/static/packages/web/common/frontend/hyperloop-browser/core.73a9617a73.js, line 33: unreachable code after return statement
+1668525052191	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1668525068872	geckodriver	INFO	Listening on 127.0.0.1:36993
+1668525068927	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--width=400" "--height=800" "--remote-debugging-port" "60931" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileIoU1vt"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1668525069654	Marionette	INFO	Marionette enabled
+1668525069661	Marionette	INFO	Listening on port 42317
+Read port: 42317
+WebDriver BiDi listening on ws://127.0.0.1:60931
+1668525069822	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileIoU1vt/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60931/devtools/browser/a1ee7414-719d-4844-846a-f1a7a655e685
+JavaScript warning: https://a0.muscache.com/airbnb/static/packages/web/common/frontend/hyperloop-browser/core.73a9617a73.js, line 33: unreachable code after return statement
+1668525081661	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://maps.googleapis.com/maps-api-v3/api/js/49/12/intl/pt_ALL/webgl.js, line 368: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1668525295490	geckodriver	INFO	Listening on 127.0.0.1:42081
+1668525295547	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--width=400" "--height=800" "--remote-debugging-port" "43701" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilephVOUZ"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1668525296423	Marionette	INFO	Marionette enabled
+1668525296430	Marionette	INFO	Listening on port 35223
+Read port: 35223
+WebDriver BiDi listening on ws://127.0.0.1:43701
+1668525296615	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilephVOUZ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:43701/devtools/browser/1a186396-eb39-4804-b1a7-3eef3288c3f6
+JavaScript warning: https://a0.muscache.com/airbnb/static/packages/web/common/frontend/hyperloop-browser/core.73a9617a73.js, line 33: unreachable code after return statement
+1668525308870	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://maps.googleapis.com/maps-api-v3/api/js/49/12/intl/pt_ALL/webgl.js, line 368: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1668525339005	geckodriver	INFO	Listening on 127.0.0.1:35589
+1668525339129	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--width=400" "--height=800" "--remote-debugging-port" "47385" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileTEsQcI"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1668525341059	Marionette	INFO	Stopped listening on port 35223
+1668525341162	Marionette	INFO	Marionette enabled
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668525341176	Marionette	INFO	Listening on port 43363
+Read port: 43363
+WebDriver BiDi listening on ws://127.0.0.1:47385
+1668525341765	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTEsQcI/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1668525346323	Marionette	INFO	Stopped listening on port 35265
+!!! error running onStopped callback: TypeError: callback is not a function
+1668525346810	Marionette	INFO	Stopped listening on port 43951
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+DevTools listening on ws://127.0.0.1:47385/devtools/browser/8fb71a14-3c5b-49bc-a8ff-6b411934f06f
+1668525347423	Marionette	INFO	Stopped listening on port 42317
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript warning: https://a0.muscache.com/airbnb/static/packages/web/common/frontend/hyperloop-browser/core.73a9617a73.js, line 33: unreachable code after return statement
+1668525356531	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://maps.googleapis.com/maps-api-v3/api/js/49/12/intl/pt_ALL/webgl.js, line 368: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1668525444279	geckodriver	INFO	Listening on 127.0.0.1:45799
+1668525444831	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--width=400" "--height=800" "--remote-debugging-port" "40483" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileYZT6eA"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1668525445526	Marionette	INFO	Marionette enabled
+1668525445532	Marionette	INFO	Listening on port 40023
+Read port: 40023
+WebDriver BiDi listening on ws://127.0.0.1:40483
+1668525445671	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYZT6eA/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:40483/devtools/browser/62f85ca8-b633-447e-a52a-5029a237c694
+JavaScript warning: https://a0.muscache.com/airbnb/static/packages/web/common/frontend/hyperloop-browser/core.73a9617a73.js, line 33: unreachable code after return statement
+1668525458323	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://maps.googleapis.com/maps-api-v3/api/js/49/12/intl/pt_ALL/webgl.js, line 368: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1668525472896	geckodriver	INFO	Listening on 127.0.0.1:37905
+1668525472950	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--width=400" "--height=800" "--remote-debugging-port" "38465" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile5CM3Op"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1668525473873	Marionette	INFO	Marionette enabled
+1668525473883	Marionette	INFO	Listening on port 46187
+Read port: 46187
+WebDriver BiDi listening on ws://127.0.0.1:38465
+1668525474098	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5CM3Op/search.json.mozlz4", (void 0)))
+1668525476029	Marionette	INFO	Stopped listening on port 43363
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668525476580	Marionette	INFO	Stopped listening on port 40023
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+DevTools listening on ws://127.0.0.1:38465/devtools/browser/b0974090-e39e-4798-b74d-a13a2f32289b
+JavaScript warning: https://a0.muscache.com/airbnb/static/packages/web/common/frontend/hyperloop-browser/core.73a9617a73.js, line 33: unreachable code after return statement
+1668525487174	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://maps.googleapis.com/maps-api-v3/api/js/49/12/intl/pt_ALL/webgl.js, line 368: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.

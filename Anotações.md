@@ -65,6 +65,6 @@
             &emsp; Para selecionarmos elementos com CSS de maneira mais facilitada, podemos utilizar a tag css_selector no find_element, passando qual o caminho pai e o filho separados por >, da seguinte forma:
                 <code>'button > img'</code>
             <br/><br/>
-            &emsp; 
+            &emsp;Depois de tratarmos todo o caminho, podemos pegar o codigo HTML da pagina que chegamos, passando a nossa variavel de navegador.page_source() e após isto passamos este pageSource no bautidulsoup
         </p><br/><br/>
 </body>
